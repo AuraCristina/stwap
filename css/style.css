@@ -1,0 +1,19 @@
+#box1{
+  border: 22px solid aqua;
+  padding: 20px;
+}
+h1#title {
+  color: aqua;
+  }
+h2#title2 {
+  color: green;
+  }
+li.item {
+  color: green;
+}
+ul.item {
+  color: pink;
+}
+body {
+  background-color: grey;
+}
